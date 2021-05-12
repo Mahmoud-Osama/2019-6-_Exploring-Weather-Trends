@@ -1,7 +1,7 @@
 # 2019-6-_Exploring-Weather-Trends
 
 ## Description:
-This project is part of both Data Analyst and Professional Data Analysis Nanodegrees with Udacity. 
+This project is a part of both Data Analyst and Professional Data Analysis Nanodegrees with Udacity. 
 In this project, I will analyze local city (Cairo) and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
 ## Tools or Programming languages used:
